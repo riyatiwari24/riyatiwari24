@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Riya
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning MERN DEvelopment
-- 📫 How to reach me ...
+👋 Hi, I'm [Your Name]!
+
+💡 Passionate Python Developer | Cloud Computing Enthusiast |
+
+🌐 Determined learner with a knack for frontend development
+
+
+🛠️ Tech Stack: Python, HTML/CSS, MySQL, Azure
+
+📚 Always eager to dive into new technologies and broaden my skill set
 
 <!---
 riyatiwari24/riyatiwari24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
