@@ -1,11 +1,11 @@
-👋 Hi, I'm [Your Name]!
+👋 Hi, I'm Riya !
 
 💡 Passionate Python Developer | Cloud Computing Enthusiast |
 
 🌐 Determined learner with a knack for frontend development
 
 
-🛠️ Tech Stack: Python, HTML/CSS, MySQL, Azure
+🛠️ Tech Stack: Python, HTML/CSS, MySQL, Azure, JavaScript
 
 📚 Always eager to dive into new technologies and broaden my skill set
 
